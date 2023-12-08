@@ -1,6 +1,45 @@
-# Embedded System-Notes
+# Resources
 
-![intro](assets/1.jpeg)  
+## General
+- [ ] [Ivy-Octernships-ML](https://github.com/GitHub-Octernships/Ivy-Octernships-ML) <br>
+- [ ] [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) <br>
+- [ ] [DevOps Exercises](https://github.com/bregman-arie/devops-exercises) <br>
+- [ ] [Awesome-GSoC-roadmap](https://github.com/realabbas/awesome-gsoc-roadmap) <br>
+- [ ] [Roadmaps](https://github.com/WeMakeDevs/roadmaps) <br>
+- [ ] [Project-based-learning](https://github.com/practical-tutorials/project-based-learning) <be>
+- [ ] [Startup toolbox ](https://github.com/alexanderisora/startuptoolbox) <be>
+- [ ] [Awesome lists](https://github.com/sindresorhus/awesome) <be>
+- [ ] [GitHub Octernships](https://github.com/education/Octernships) <be>
+- [ ] [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students) <be>
+- [ ] [Algorithms](https://github.com/Kumar-laxmi/Algorithms) <be>
+- [ ] [Summer 2024 tech internships](https://github.com/SimplifyJobs/Summer2024-Internships) <be>
+
+## AI-ML
+- [ ] [Coursera-mathematics-for-ml](https://github.com/ertsiger/coursera-mathematics-for-ml) <br>
+- [ ] [Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) <br>
+- [ ] [Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) <br>
+- [ ] [Homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning) <br>
+- [ ] [NN-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) <br>
+- [ ] [MachineLearning_Python](https://github.com/lawlite19/MachineLearning_Python) <be>
+
+
+## Android Development
+- [ ] [Kotlin Udemy](https://github.com/hussien89aa/KotlinUdemy) <be>
+- [ ] [Moko-resources](https://github.com/icerockdev/moko-resources) <be>
+
+## Web
+- [ ] [Web Development Resources](https://github.com/markodenic/web-development-resources) <be>
+- [ ] [Resource List](https://github.com/dargaCode/WebDevStudyResources) <be>
+
+
+## CyberSecurity
+- [ ] [Art of Hacking](https://github.com/The-Art-of-Hacking/h4cker) <br>
+- [ ] [Cybersecurity papers, blogs, and writeups](https://github.com/0xor0ne/awesome-list) <br>
+
+## Kernel Development
+- [ ] [Linux kernel map](https://github.com/makelinux/linux_kernel_map) <br>
+- [ ] [Linux Kernel papers, blogs, and writeups](https://github.com/0xor0ne/awesome-list) <br>
+- [ ] [Assembly-Lib](https://github.com/oded8bit/Assembly-Lib) <br>
 
 ## Languages: C/C++/Python
 - [ ] Lecture Collection | Programming Paradigms: [Lectures](https://www.youtube.com/playlist?list=PL9D558D49CA734A02) <br>
